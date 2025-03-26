@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_web":{"create":1,"guestpath":"/vagrant_web","hostpath":"/Users/oleksandrbacenko/vagrant/additional/web_shared1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/oleksandrbacenko/vagrant/additional","disabled":false,"__vagrantfile":true}}}
